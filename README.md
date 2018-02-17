@@ -1,3 +1,3 @@
 # TestJK
 
-=> Welcome to Sky JS!!
+=> Welcome to Java!!
